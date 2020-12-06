@@ -19,9 +19,9 @@ namespace lottogame
         public byte pontok;
     }
 
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
             PictureBox pb1 = new PictureBox();
@@ -71,7 +71,7 @@ namespace lottogame
      
                 
                 this.Hide();
-                Form3 f3 = new Form3();
+                Games f3 = new Games();
                 f3.ShowDialog();
             }
             hiba.Text = (string.Join("\t", errors));
@@ -80,7 +80,7 @@ namespace lottogame
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 f2 = new Form2();
+            Register f2 = new Register();
             f2.ShowDialog();
         }
 

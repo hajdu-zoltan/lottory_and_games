@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace lottogame
 {
-    public partial class Form4 : Form
+    public partial class Lottery5 : Form
     {
-        public Form4()
+        public Lottery5()
         {
             InitializeComponent();
         }

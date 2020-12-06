@@ -11,9 +11,9 @@ using System.IO;
 
 namespace lottogame
 {
-    public partial class Form2 : Form
+    public partial class Register : Form
     {
-        public Form2()
+        public Register()
         {
             InitializeComponent();
         }

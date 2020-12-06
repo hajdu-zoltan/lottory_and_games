@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lottogame
 {
-    public partial class Form3 : Form
+    public partial class Games : Form
     {
-        public Form3()
+        public Games()
         {
             InitializeComponent();
         }
@@ -30,28 +30,28 @@ namespace lottogame
         private void button5_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form4 f4 = new Form4();
+            Lottery5 f4 = new Lottery5();
             f4.ShowDialog();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form5 f5 = new Form5();
+            Lotter6 f5 = new Lotter6();
             f5.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form6 f6 = new Form6();
+            Black_Jack f6 = new Black_Jack();
             f6.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form7 f7 = new Form7();
+            Moneytree f7 = new Moneytree();
             f7.ShowDialog();
         }
 

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lottogame
 {
-    public partial class Form5 : Form
+    public partial class Lotter6 : Form
     {
-        public Form5()
+        public Lotter6()
         {
             InitializeComponent();
         }
