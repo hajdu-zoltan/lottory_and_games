@@ -55,7 +55,7 @@ namespace lottogame
             }
             MessageBox.Show("Sikeres Regisztráció");
             this.Hide();
-            Form1 f1 = new Form1();
+            Login f1 = new Login();
             f1.ShowDialog();
         }
 
@@ -105,7 +105,7 @@ namespace lottogame
             else
             {
              this.Hide();
-             Form1 f1 = new Form1();
+             Login f1 = new Login();
              f1.ShowDialog();
             }
        

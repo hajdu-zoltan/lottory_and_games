@@ -56,7 +56,7 @@ namespace lottogame
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form3 f3 = new Form3();
+            Games f3 = new Games();
             f3.ShowDialog();
         }
 

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lottogame
 {
-    public partial class Form7 : Form
+    public partial class Moneytree : Form
     {
-        public Form7()
+        public Moneytree()
         {
             InitializeComponent();
         }
@@ -65,7 +65,7 @@ namespace lottogame
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form3 f3 = new Form3();
+            Games f3 = new Games();
             f3.ShowDialog();
         }
     }
