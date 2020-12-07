@@ -166,11 +166,12 @@
             // errors
             // 
             this.errors.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(198)))), ((int)(((byte)(65)))));
+            this.errors.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.errors.FormattingEnabled = true;
             this.errors.ItemHeight = 15;
             this.errors.Location = new System.Drawing.Point(177, 193);
             this.errors.Name = "errors";
-            this.errors.Size = new System.Drawing.Size(319, 34);
+            this.errors.Size = new System.Drawing.Size(319, 30);
             this.errors.TabIndex = 19;
             // 
             // Login

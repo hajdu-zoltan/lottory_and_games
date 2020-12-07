@@ -6242,11 +6242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zoli\\Desktop\\lottery\\lottery\\lottery.csproj",
+      "projectUniqueName": "C:\\Users\\Zoli\\Desktop\\projects\\lottory_and_games\\lottery\\lottery.csproj",
       "projectName": "lottery",
-      "projectPath": "C:\\Users\\Zoli\\Desktop\\lottery\\lottery\\lottery.csproj",
+      "projectPath": "C:\\Users\\Zoli\\Desktop\\projects\\lottory_and_games\\lottery\\lottery.csproj",
       "packagesPath": "C:\\Users\\Zoli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zoli\\Desktop\\lottery\\lottery\\obj\\",
+      "outputPath": "C:\\Users\\Zoli\\Desktop\\projects\\lottory_and_games\\lottery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zoli\\AppData\\Roaming\\NuGet\\NuGet.Config",

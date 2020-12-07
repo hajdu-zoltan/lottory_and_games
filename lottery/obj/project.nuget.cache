@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PXywbVvP41QDQmoZJ4mLLXg69ULUsy1TEV9T9RAZc9FA5Yf48Fp5t7sPa+CXALpmQs8NZ8Z8z8OQqPfircSYUg==",
+  "dgSpecHash": "FPT615mJlOiBBt9YoxGna69NcASqL+dtMFVX0lMMKOaD5WeOFasP4YasaAfJpEdOmH1S/l+Hc3XvpTCxhUmDRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zoli\\Desktop\\lottery\\lottery\\lottery.csproj",
+  "projectFilePath": "C:\\Users\\Zoli\\Desktop\\projects\\lottory_and_games\\lottery\\lottery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zoli\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Zoli\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

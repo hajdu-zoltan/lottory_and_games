@@ -33,19 +33,19 @@ namespace lottery
         {
             
             List<string> errors = new List<string>();
-            string nev;
-            string jelszo;
+            string name;
+            string password;
             string email;
 
-            String[] t = new String[4];
-            nev = nm.Text;
-            jelszo = pw.Text;
+            name = nm.Text;
+            password = pw.Text;
             email = em.Text;
-            User user = new User(nev, jelszo, email);
+            User user = new User {
+            userName=name,usersPwd=password,userEmail=email};
             bool nameerror = false;
             foreach (var users in userrepository.getusers())
             {
-                if(nev==users.userName)
+                if(name==users.userName)
                 {
                     nameerror = true;
                 }

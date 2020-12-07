@@ -103,7 +103,7 @@ namespace lottery
                 }
             if (nagyobb)
             {
-                errors.Add("Számoknak 1 és 90 köztieknek kell leniük!");
+                errors.Add("Számoknak 1 és 45 köztieknek kell leniük!");
             }
             tomb = sorbarendez(tomb);
                 int[] ottoslotto = tomb;
